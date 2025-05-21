@@ -1,0 +1,27 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "aaron-bond.better-comments",
+        "wayou.vscode-todo-highlight",
+        "streetsidesoftware.code-spell-checker",
+        "randomfractalsinc.vscode-data-preview",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "lokalise.i18n-ally",
+        "oderwat.indent-rainbow",
+        "esbenp.prettier-vscode",
+        "wscats.vue",
+        "vue.volar",
+        "normanstypczynskipublisher.gqlformatter",
+        "editorconfig.editorconfig",
+        "dariofuzinato.vue-peek",
+        "masterco.master-css-language-service"
+    ],
+    "unwantedRecommendations": [
+        "hookyqr.beautify",
+        "dbaeumer.jshint",
+        "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
+}
